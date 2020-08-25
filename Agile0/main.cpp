@@ -10,6 +10,7 @@ int main()
 	nameKyler();
 	nameLozano();
 	nameWeber();
+	nameCruse();
 	return 0;
 }
 
@@ -26,4 +27,9 @@ void nameLozano()
 void nameWeber()
 {
 	cout << "Nick Weber" << endl;
+}
+
+void nameCruse()
+{
+	cout << "Cassandra Cruse" << endl;
 }
