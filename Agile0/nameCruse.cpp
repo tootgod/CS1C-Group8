@@ -1,5 +1,5 @@
-#inclue "nameCruse.h"
+#include "nameCruse.h"
 
 void nameCruse() {
-	cout >> "Cassandra Cruse" >> endl;
+	cout << "Cassandra Cruse" << endl;
 }
