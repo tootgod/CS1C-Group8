@@ -1,7 +1,7 @@
-using namespace std;
 #include <iostream>
+using namespace std;
+#include "nameKyler.h"
 
-void nameKyler();
 void nameLozano();
 void nameWeber();
 void nameCruse();
