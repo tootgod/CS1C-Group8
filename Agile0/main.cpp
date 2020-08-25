@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 #include "nameKyler.h"
+#include "nameCruse.h"
 
 void nameLozano();
 void nameWeber();
-void nameCruse();
 
 int main()
 {
@@ -23,9 +23,4 @@ void nameLozano()
 void nameWeber()
 {
 	cout << "Nick Weber" << endl;
-}
-
-void nameCruse()
-{
-	cout << "Cassandra Cruse" << endl;
 }
