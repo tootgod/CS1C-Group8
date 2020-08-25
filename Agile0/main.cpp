@@ -2,8 +2,8 @@
 using namespace std;
 #include "nameKyler.h"
 #include "nameCruse.h"
+#include "nameLozano.h"
 
-void nameLozano();
 void nameWeber();
 
 int main()
@@ -13,11 +13,6 @@ int main()
 	nameWeber();
 	nameCruse();
 	return 0;
-}
-
-void nameLozano()
-{
-	cout << "Nicholas Lozano" << endl;
 }
 
 void nameWeber()
