@@ -4,6 +4,7 @@ using namespace std;
 void nameKyler();
 void nameLozano();
 void nameWeber();
+void nameCruse();
 
 int main()
 {
